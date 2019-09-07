@@ -1,0 +1,14 @@
+.game{
+    background: #000;
+    padding: 50px;
+    height: 100%;
+}
+h2{
+    color: #fff;
+}
+.btn {
+    margin: 5px;
+}
+p{
+    color: #fff;
+}
