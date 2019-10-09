@@ -87,11 +87,7 @@ $(function () {
             setTimeout(nextQuestion, 3 * 1000);
         }
     };
-    // if (counter <= 0) {
-    //     
-    // } else {
-    //     $('#time').text('Time Remaing: ' + counter);
-    //     console.log('Timer --> ' + counter);
+
 
 
     function question() {
