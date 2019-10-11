@@ -9,7 +9,7 @@
 
 ### Summary
 
-TriviaGame also is known as the Assistant's Assistant Dashboard or A.A. Dashboard for short. A.A. Dashboard is made to incorporate travel planes, render reports, and integrate with google calendar with a logged-in Executive Assistant that are representing executives and making travel plans. 
+TriviaGame is a game where the user needs to answer questions about certain IT technical questions. Good Luck!
 
 See the working app here:
 
